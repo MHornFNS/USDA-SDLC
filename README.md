@@ -9,3 +9,5 @@ The Hybrid Agile Scrum approach follows the eight phases shown in the Waterfall 
 Sorry no pictures in Github.
 
 USDA OIT SDLC
+
+Appendix A is the EVM Implemenation Guide
